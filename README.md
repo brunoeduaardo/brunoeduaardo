@@ -1,7 +1,7 @@
 ## Hi there, my name is Bruno.
 ### I'm currently studying more about web development languages and the most well-known frameworks. I also like to work with the design part.
 
- <div>
+ <div align="center">
   <a href="https://github.com/brunoeduaardo">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=brunoeduaardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoeduaardo&layout=compact&langs_count=16&theme=dark"/>
@@ -11,7 +11,7 @@
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruno-dev/des" height="100" width="120" src="https://cdn.dribbble.com/users/314873/screenshots/4000731/diggi-media.gif">
+  
 </div>
   
   ##
